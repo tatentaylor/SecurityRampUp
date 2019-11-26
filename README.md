@@ -61,18 +61,18 @@ Curated list of content to learn and practice some of the skills and knowledge r
 - [7 Minute Security](https://7ms.us/episodeguide/)
 
 ## Recommended Books
-- Practical Packet Analysis : Using Wireshark to Solve Real-World Network Problems
-- The Practice of Network Security Monitoring : Understanding Incident Detection and Response
-- The Tao of Network Security Monitoring
-- Blue Team Field Manual
-- Blue Team Handbook: Incident Response Edition
-- Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases
-- Red Team Field Manual
-- The Web Application Hacker's Handbook 2nd edition: Finding and Exploiting Security Flaws
-- Malware Analyst’s Cookbook 
-- The Art of Memory Forensics 
-- Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software
-- Incident Response & Computer Forensics, Third Edition
+- [Practical Packet Analysis : Using Wireshark to Solve Real-World Network Problems](https://www.walmart.com/ip/Practical-Packet-Analysis-3E-Using-Wireshark-to-Solve-Real-World-Network-Problems/55478681)
+- [The Practice of Network Security Monitoring : Understanding Incident Detection and Response](https://www.walmart.com/ip/The-Practice-of-Network-Security-Monitoring-Understanding-Incident-Detection-and-Response-9781593275099/23398801)
+- [The Tao of Network Security Monitoring](https://www.walmart.com/ip/The-Practice-of-Network-Security-Monitoring-Understanding-Incident-Detection-and-Response-9781593275099/23398801)
+- [Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X/ref=sr_1_2?keywords=Blue+Team+Field+Manual&qid=1574749251&sr=8-2)
+- [Blue Team Handbook: Incident Response Edition](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_1?keywords=Blue+Team+Field+handbook+incident+response+edition&qid=1574749302&sr=8-1)
+- [Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?keywords=Blue+Team+handbook+soc+siem+and+threat+hunting+use+cases&qid=1574749401&sr=8-1)
+- [Red Team Field Manual](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?keywords=Blue+Team+handbook+soc+siem+and+threat+hunting+use+cases&qid=1574749401&sr=8-1)
+- [The Web Application Hacker's Handbook 2nd edition: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?keywords=The+web+application+hackers+handbook+2nd+edition+finding+and+exploiting&qid=1574749540&sr=8-1)
+- [Malware Analyst’s Cookbook](https://www.walmart.com/ip/Malware-Analyst-s-Cookbook-and-DVD-eBook/205371940) 
+- [The Art of Memory Forensics](https://www.walmart.com/ip/The-Art-of-Memory-Forensics-Detecting-Malware-and-Threats-in-Windows-Linux-and-Mac-Memory-9781118825099/33938941) 
+- [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.walmart.com/ip/Practical-Malware-Analysis-The-Hands-On-Guide-to-Dissecting-Malicious-Software-9781593272906/15885930)
+- [Incident Response & Computer Forensics, Third Edition](https://www.walmart.com/ip/Incident-Response-Computer-Forensics-Third-Edition-eBook-9780071798693/549656892)
 
 ## Recommended Certifications
 - [CompTIA Security+](https://certification.comptia.org/certifications/security)
@@ -86,20 +86,20 @@ Curated list of content to learn and practice some of the skills and knowledge r
 ## Basic Networking
 Knowledge of networking is a critical foundation for all InfoSec analysts and is used in several follow-on disciplines.
 - [The OSI Model Demystified](https://www.youtube.com/watch?v=HEEnLZV2wGI)
-- [Internetworking Basics](http://docwiki.cisco.com/wiki/Internetworking_Basics)
-- [Introduction to LAN Protocols](http://docwiki.cisco.com/wiki/Introduction_to_LAN_Protocols)
-- [Introduction to WAN Technologies](http://docwiki.cisco.com/wiki/Introduction_to_WAN_Technologies)
-- [Bridging and Switching Basics](http://docwiki.cisco.com/wiki/Bridging_and_Switching_Basics)
-- [Routing Basics](http://docwiki.cisco.com/wiki/Routing_Basics)
-- [OSI Protocols](http://docwiki.cisco.com/wiki/Open_System_Interconnection_Protocols)
+- [Internetworking Basics](https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/linked/tcpip.htm)
+- [Introduction to LAN Protocols](http://academy.delmar.edu/Courses/download/CiscoIOS/LAN-Protocols.pdf)
+- [Introduction to WAN Technologies](http://www.ciscopress.com/articles/article.asp?p=2832405&seqNum=4)
+- [Bridging and Switching Basics](https://www.dummies.com/programming/networking/juniper/the-network-basics-of-bridging-routing-and-switching/)
+- [Routing Basics](https://learningnetwork.cisco.com/docs/DOC-13194)
+- [OSI Protocols](https://docs.oracle.com/cd/E19683-01/806-4075/ipov-7/index.html)
 - [Address Resolution Protocol (ARP) Explained](https://www.youtube.com/watch?v=xTOyZ6TWQdM)
 - [How a DNS Server (Domain Name System) works](https://www.youtube.com/watch?v=mpQZVYPuDGU)
 - [TCP vs UDP Comparison](https://www.youtube.com/watch?v=uwoD5YsGACg)
 - [IPv4 vs IPv6 Tutorial](https://www.youtube.com/watch?v=ThdO9beHhpA)
 - [DHCP Explained - Dynamic Host Configuration Protocol](https://www.youtube.com/watch?v=e6-TaH5bkjo)
-- [Subnetting](https://technet.microsoft.com/en-us/library/bb962065.aspx)
-- [Virtual Private Networks](http://docwiki.cisco.com/wiki/Virtual_Private_Networks)
-- [Cisco eLearning Network-CCENT up to CCIE](https://learningspace.cisco.com/)
+- [Subnetting](https://docs.microsoft.com/en-us/previous-versions/tn-archive/bb962065(v=technet.10)?redirectedfrom=MSDN)
+- [Virtual Private Networks](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html)
+- [Cisco eLearning Network-CCENT up to CCIE](https://learningnetwork.cisco.com/community/learning_center/training-catalog/network-programmability)
 
 ## Cryptography
 Knowledge of algorithms, ciphers, and security systems is useful to understand how it may be used to protect sensitive data or to conceal malicious activities.
@@ -111,7 +111,7 @@ Knowledge of algorithms, ciphers, and security systems is useful to understand h
 
 ## Web and Network Attacks
 Knowing the tactics, techniques, and procedures used by malicious actors to probe and exploit security holes, or vulnerabilities is essential for an analyst.
-- [Mitre Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)](https://attack.mitre.org/wiki/Main_Page)
+- [Mitre Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)](https://attack.mitre.org/)
 - [Common Attack Pattern Enumeration and Classification (CAPEC): A comprehensive dictionary and classification taxonomy of known attacks](http://capec.mitre.org/about/index.html)
 - [OWASP Top 10: Represent the most critical security risks to web applications](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf)
 - [Hacksplaining: Toturial on common web application attacks](https://www.hacksplaining.com/lessons)
