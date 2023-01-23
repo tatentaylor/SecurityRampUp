@@ -120,7 +120,7 @@ Knowing the tactics, techniques, and procedures used by malicious actors to prob
 - [ARP Spoofing](https://www.veracode.com/security/arp-spoofing)
 - [Deep Inside a DNS DDoS Amplification Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
 - [List of Adversary Emulation Tools](http://pentestit.com/adversary-emulation-tools-list/)
-- [Verizon 2018 Data Breach Investigations Report (DBIR)](https://www.verizonenterprise.com/resources/reports/rp_DBIR_2018_Report_en_xg.pdf)
+- [Verizon Data Breach Investigations Report (DBIR)](https://www.verizon.com/business/resources/reports/dbir/)
 
 ## Vulnerabilities
 Understanding security vulnerabilities and where to get more information on them is a necessary skill. Many well known breaches were due to exploitation of an unpatched vulnerability.
