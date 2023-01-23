@@ -182,7 +182,6 @@ Many security and IT tools do not fully cover our needs as analysts and responde
 ## Malware
 Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor. Understanding how malware works is a key analytical skill.
 - [List of Types of Malware](https://www.malwarefox.com/malware-types/)
-- [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
 - [Reverse Engineering Malware](https://cybersecurity.att.com/blogs/labs-research/reverse-engineering-malware)
 
 ## Set up your home lab
