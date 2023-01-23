@@ -143,18 +143,13 @@ Understanding the operating systems and internal tools better helps an analyst m
 - [Introduction to OpenStack - audit for free](https://www.edx.org/course/introduction-to-openstack)
 
 ## Mac
-  ### MacAdmins Slack :
-  - [MacAdmins Slack](https://macadmins.slack.com/)
-  - [MacAdmins Registration](https://macadmins.herokuapp.com/)
-  - Channels to watch: #security, #microsoft-office, #jamfnation
-  
-  ### Mac Related Websites
-  - [Objective See](https://www.objective-see.com/blog.html)
-  - [DigitalSecurity](https://digitasecurity.com/blog/)
-  - [MDSec](https://www.mdsec.co.uk/blog/)
-  - [MacMule](https://macmule.com/)
-  - [Apple](https://support.apple.com/en-us/HT201222)
-  - [Specterops.io](https://posts.specterops.io/tagged/macos)
+ 
+- [Objective See](https://www.objective-see.com/blog.html)
+- [DigitalSecurity](https://digitasecurity.com/blog/)
+- [MDSec](https://www.mdsec.co.uk/blog/)
+- [MacMule](https://macmule.com/)
+- [Apple](https://support.apple.com/en-us/HT201222)
+- [Specterops.io](https://posts.specterops.io/tagged/macos)
 
 ## Windows
 An understanding of how to leverage the Windows OS's internal tools helps an analyst more effectively protect, diagnose, and triage systems.
