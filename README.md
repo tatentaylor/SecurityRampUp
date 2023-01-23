@@ -145,7 +145,7 @@ Understanding the operating systems and internal tools better helps an analyst m
 ## Mac
  
 - [Objective See](https://www.objective-see.com/blog.html)
-- [DigitalSecurity](https://digitasecurity.com/blog/)
+- [JAMF Blog](https://www.jamf.com/blog/)
 - [MDSec](https://www.mdsec.co.uk/blog/)
 - [MacMule](https://macmule.com/)
 - [Apple](https://support.apple.com/en-us/HT201222)
