@@ -199,7 +199,7 @@ Setting up and utilizing a home lab allows a learner to put into practice the le
   - [Microsoft Windows Base Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
   ### Virtual Pen testing and Analysis Images
-  - [Kali: Linux distribution aimed at advanced Penetration Testing and Security Auditing](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-hyperv-image-download/)
+  - [Kali: Linux distribution aimed at advanced Penetration Testing and Security Auditing](https://www.kali.org/)
   - [SIFT Workstation: Open-source incident response and forensic tools designed for detailed digital forensic examinations](https://digital-forensics.sans.org/community/downloads)
   - [REMnux: Linux Toolkit for Reverse-Engineering and Analyzing Malware](https://remnux.org/)
   - [Security Operations and Forensics - Elasticsearch, Logstash, Kibana (SOF-ELK): ](https://github.com/philhagen/sof-elk/blob/master/VM_README.md) 
