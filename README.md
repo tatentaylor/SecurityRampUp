@@ -28,7 +28,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
   
 ## InfoSec News, Blogs, etc
 - [Krebs on Security](https://krebsonsecurity.com/)
-- [Internet Storm Center Diary](http://isc.sans.edu/diary.html#__utma=216335632.1546811132.1523890682.1523890682.1523890682.1&__utmb=216335632.4.9.1523890695938&__utmc=216335632&__utmx=-&__utmz=216335632.1523890682.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=181085796&__utma=216335632.1546811132.1523890682.1523890682.1523890682.1&__utmb=216335632.5.9.1523890778706&__utmc=216335632&__utmx=-&__utmz=216335632.1523890682.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=181003748)
+- [Internet Storm Center Diary](https://isc.sans.edu/diaryarchive.html)
 - [Dark Reading](https://www.darkreading.com/)
 - [NetSec Subreddit](https://www.reddit.com/r/netsec/)
 - [Pwned Subreddit](https://www.reddit.com/r/pwned/)
@@ -58,7 +58,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Hack Naked News](https://securityweekly.com/subscribe/)
 - [Steve Gibson's Security Now](https://twit.tv/shows/security-now)
 - [Defensive Security](http://defensivesecurity.org/)
-- [Recorded Future Inside Threat Intelligence](https://www.recordedfuture.com/resources/podcasts/)
+- [Recorded Future Inside Threat Intelligence](https://www.recordedfuture.com/resources/podcast/)
 - [Tradecraft Security Weekly](https://securityweekly.com/subscribe/)
 - [7 Minute Security](https://7ms.us/episodeguide/)
 
@@ -71,10 +71,10 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?keywords=Blue+Team+handbook+soc+siem+and+threat+hunting+use+cases&qid=1574749401&sr=8-1)
 - [Red Team Field Manual](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?keywords=Blue+Team+handbook+soc+siem+and+threat+hunting+use+cases&qid=1574749401&sr=8-1)
 - [The Web Application Hacker's Handbook 2nd edition: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?keywords=The+web+application+hackers+handbook+2nd+edition+finding+and+exploiting&qid=1574749540&sr=8-1)
-- [Malware Analyst’s Cookbook](https://www.walmart.com/ip/Malware-Analyst-s-Cookbook-and-DVD-eBook/205371940) 
+- [Malware Analyst’s Cookbook](https://www.walmart.com/ip/Malware-Analyst-s-Cookbook-and-DVD-Tools-and-Techniques-for-Fighting-Malicious-Code-9780470613030/13919663) 
 - [The Art of Memory Forensics](https://www.walmart.com/ip/The-Art-of-Memory-Forensics-Detecting-Malware-and-Threats-in-Windows-Linux-and-Mac-Memory-9781118825099/33938941) 
 - [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.walmart.com/ip/Practical-Malware-Analysis-The-Hands-On-Guide-to-Dissecting-Malicious-Software-9781593272906/15885930)
-- [Incident Response & Computer Forensics, Third Edition](https://www.walmart.com/ip/Incident-Response-Computer-Forensics-Third-Edition-eBook-9780071798693/549656892)
+- [Incident Response & Computer Forensics, Third Edition](https://www.walmart.com/ip/Incident-Response-Computer-Forensics-Paperback-9780071798686/22556605)
 
 ## Recommended Certifications
 - [CompTIA Security+](https://certification.comptia.org/certifications/security)
@@ -115,7 +115,7 @@ Knowledge of algorithms, ciphers, and security systems is useful to understand h
 Knowing the tactics, techniques, and procedures used by malicious actors to probe and exploit security holes, or vulnerabilities is essential for an analyst.
 - [Mitre Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)](https://attack.mitre.org/)
 - [Common Attack Pattern Enumeration and Classification (CAPEC): A comprehensive dictionary and classification taxonomy of known attacks](http://capec.mitre.org/about/index.html)
-- [OWASP Top 10: Represent the most critical security risks to web applications](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [Hacksplaining: Toturial on common web application attacks](https://www.hacksplaining.com/lessons)
 - [ARP Spoofing](https://www.veracode.com/security/arp-spoofing)
 - [Deep Inside a DNS DDoS Amplification Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
@@ -138,7 +138,7 @@ Understanding the operating systems and internal tools better helps an analyst m
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [Linux Foundation - audit for free](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 - [Introduction to Red Hat Linux - audit for free](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
-- [Linux Essentials](https://www.netacad.com/campaign/linux-essentials3)
+- [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
 - [Linux Hardening Guide part 1](https://linuxacademy.com/howtoguides/posts/show/topic/19700-linux-security-and-server-hardening-part1)
 - [Introduction to OpenStack - audit for free](https://www.edx.org/course/introduction-to-openstack)
 
@@ -185,8 +185,8 @@ Many security and IT tools do not fully cover our needs as analysts and responde
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
 - [Mozilla Developer Network - Learn how to do web programming](https://developer.mozilla.org/en-US/docs/Learn)
 - [Python Tutorial](https://www.tutorialspoint.com/python3/index.htm)
-- [PowerShell Beginner - Audit for free](https://www.edx.org/course/windows-powershell-basics)
-- [PowerShell Security Best Practices - Audit for free](https://www.edx.org/course/powershell-security-best-practices-microsoft-inf251x)
+- [Automate administrative tasks by using PowerShell](https://docs.microsoft.com/en-us/learn/paths/powershell/)
+- [Learn about PowerShell script security](https://docs.microsoft.com/en-us/mem/configmgr/apps/deploy-use/learn-script-security)
 - [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) 
 - [Python for Security Professionals](https://www.cybrary.it/course/python/)
 - [W3 Schools - Learn HTML up to PHP and Perl](https://www.w3schools.com/default.asp)
@@ -195,7 +195,7 @@ Many security and IT tools do not fully cover our needs as analysts and responde
 Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor. Understanding how malware works is a key analytical skill.
 - [List of Types of Malware](https://www.malwarefox.com/malware-types/)
 - [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
-- [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+- [Reverse Engineering Malware](https://cybersecurity.att.com/blogs/labs-research/reverse-engineering-malware)
 
 ## Set up your home lab
 Setting up and utilizing a home lab allows a learner to put into practice the lessons learned. Do not be afraid to setup, break, and teardown home labs. These experiences, both good and bad, are essential to the development of a well-rounded security professional.
@@ -224,7 +224,7 @@ Setting up and utilizing a home lab allows a learner to put into practice the le
 
   ### Security Tools
   - [Sectools.org: List of the top 125 network security tools](http://sectools.org/)
-  - [Security Onion: Intrusion detection, enterprise security monitoring, and log management distro.](https://github.com/Security-Onion-Solutions/security-onion/blob/master/Verify_ISO.md)
+  - [Security Onion: Intrusion detection, enterprise security monitoring, and log management distro.](https://github.com/Security-Onion-Solutions/securityonion)
   - [Snort: Network intrusion prevention system](https://www.snort.org/)
   - [Splunk: Platform to search, analyze and visualize machine-generated data](https://www.splunk.com/en_us/software/features-comparison-chart.html)
   - [Sophos UTM Home Use Firewall](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)
@@ -245,7 +245,7 @@ List of free and paid resource ideas to continue learning.
   - [Command Line Crash Course - Linux and Windows](https://learnpythonthehardway.org/python3/appendixa.html)
   - [Linux Academy](https://linuxacademy.com/)
   - [Linux Hardening Guide part 2](https://linuxacademy.com/howtoguides/posts/show/topic/19746-linux-security-and-server-hardening-part2)
-  - [Windows 10 Hardening Guide](https://www.asd.gov.au/publications/protect/Hardening_Win10.pdf)
+  - [Guidelines for System Hardening](https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-hardening)
   - [Pentester Lab](https://www.pentesterlab.com)
   - [Tufts Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
   - [List of InfoSec learning resources](https://github.com/onlurking/awesome-infosec)
