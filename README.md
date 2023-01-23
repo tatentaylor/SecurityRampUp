@@ -221,7 +221,6 @@ Use the following scenarios and challenges to apply your knowledge. Some content
 - [Metasploit Unleashed Course](https://www.offensive-security.com/metasploit-unleashed/)
 - [Exploit and CTF Challenges](https://exploit-exercises.com/)
 - [VMs for hands-on security experience](https://www.vulnhub.com/)
-- [Vulnerable web application code VMs](https://hack.me/)
 
 ## Additional Resources
 List of free and paid resource ideas to continue learning.
