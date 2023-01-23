@@ -185,8 +185,7 @@ Many security and IT tools do not fully cover our needs as analysts and responde
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
 - [Mozilla Developer Network - Learn how to do web programming](https://developer.mozilla.org/en-US/docs/Learn)
 - [Python Tutorial](https://www.tutorialspoint.com/python3/index.htm)
-- [PowerShell Beginner - Audit for free](https://www.edx.org/course/windows-powershell-basics)
-- [PowerShell Security Best Practices - Audit for free](https://www.edx.org/course/powershell-security-best-practices-microsoft-inf251x)
+- [Automate administrative tasks by using PowerShell](https://learn.microsoft.com/en-us/training/paths/powershell/)
 - [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) 
 - [Python for Security Professionals](https://www.cybrary.it/course/python/)
 - [W3 Schools - Learn HTML up to PHP and Perl](https://www.w3schools.com/default.asp)
@@ -195,7 +194,7 @@ Many security and IT tools do not fully cover our needs as analysts and responde
 Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor. Understanding how malware works is a key analytical skill.
 - [List of Types of Malware](https://www.malwarefox.com/malware-types/)
 - [Malware Hunting with the Sysinternals Tools](https://www.youtube.com/watch?v=Wuy_Pm3KaV8)
-- [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+- [Reverse Engineering Malware](https://cybersecurity.att.com/blogs/labs-research/reverse-engineering-malware)
 
 ## Set up your home lab
 Setting up and utilizing a home lab allows a learner to put into practice the lessons learned. Do not be afraid to setup, break, and teardown home labs. These experiences, both good and bad, are essential to the development of a well-rounded security professional.
@@ -245,7 +244,7 @@ List of free and paid resource ideas to continue learning.
   - [Command Line Crash Course - Linux and Windows](https://learnpythonthehardway.org/python3/appendixa.html)
   - [Linux Academy](https://linuxacademy.com/)
   - [Linux Hardening Guide part 2](https://linuxacademy.com/howtoguides/posts/show/topic/19746-linux-security-and-server-hardening-part2)
-  - [Windows 10 Hardening Guide](https://www.asd.gov.au/publications/protect/Hardening_Win10.pdf)
+  - [Guidelines for System Hardening](https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-hardening)
   - [Pentester Lab](https://www.pentesterlab.com)
   - [Tufts Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
   - [List of InfoSec learning resources](https://github.com/onlurking/awesome-infosec)
