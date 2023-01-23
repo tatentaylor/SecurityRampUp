@@ -206,7 +206,7 @@ Setting up and utilizing a home lab allows a learner to put into practice the le
 
   ### Vulnerable applications and OS Images
   - [Metasploitable 3: Intentionally vulnerable linux image](https://github.com/rapid7/metasploitable3)
-  - [OWASP Mutillidae 2: Vulnerable Web Aplication](https://sourceforge.net/projects/mutillidae/)
+  - [OWASP Mutillidae 2: Vulnerable Web Aplication](https://owasp.org/www-project-mutillidae-ii/)
   - [Windows 7-10 VMs: Build your own vulnerable Windows VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
   ### Security Tools
