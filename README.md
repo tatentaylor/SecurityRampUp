@@ -155,7 +155,6 @@ Understanding the operating systems and internal tools better helps an analyst m
 An understanding of how to leverage the Windows OS's internal tools helps an analyst more effectively protect, diagnose, and triage systems.
 - [Windows Command Line Basics](https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
 - [Windows Command Line Cheat Sheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf)
-- [Windows Server 2016 Fundamentals - 5 courses (audit for free)](https://www.edx.org/xseries/microsoft-windows-server-2016)
 - [The Sysinternals tools make you better at your job](https://www.youtube.com/watch?v=6DYCAC_beas)
 - [PowerShell for the Blue team](https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/)
 
