@@ -105,10 +105,7 @@ Knowledge of networking is a critical foundation for all InfoSec analysts and is
 
 ## Cryptography
 Knowledge of algorithms, ciphers, and security systems is useful to understand how it may be used to protect sensitive data or to conceal malicious activities.
-- [SSL/TLS part 1 - Ciphersuite, Hashing,Encryption](https://www.wst.space/ssl-part1-ciphersuite-hashing-encryption/)
-- [SSL/TLS part 2 – Understanding key exchange algorithm](https://www.wst.space/ssl-part-2-diffie-hellman-key-exchange/)
-- [SSL/TLS part 3 – Understanding Certificate Authority](https://www.wst.space/ssl-part-3-certificate-authority/)
-- [SSL/TLS part 4 – Understanding the TLS Handshake Protocol](https://www.wst.space/ssl-part-4-tls-handshake-protocol/)
+- [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
 - [You Wouldn't Base64 a Password - Cryptography Decoded (Paragon Initiative)](https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded)
 
 ## Web and Network Attacks
