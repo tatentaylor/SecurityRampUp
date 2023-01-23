@@ -196,7 +196,6 @@ Setting up and utilizing a home lab allows a learner to put into practice the le
   - [IDS/IPS - Snort](https://www.snort.org/#documents)
   - [Microsoft Developer Network Library](https://msdn.microsoft.com/en-us/library/)
   - [Microsoft Developer Network Emulators](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive)
-  - [Microsoft Windows Base Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
   ### Virtual Pen testing and Analysis Images
   - [Kali: Linux distribution aimed at advanced Penetration Testing and Security Auditing](https://www.kali.org/)
@@ -207,7 +206,6 @@ Setting up and utilizing a home lab allows a learner to put into practice the le
   ### Vulnerable applications and OS Images
   - [Metasploitable 3: Intentionally vulnerable linux image](https://github.com/rapid7/metasploitable3)
   - [OWASP Mutillidae 2: Vulnerable Web Aplication](https://owasp.org/www-project-mutillidae-ii/)
-  - [Windows 7-10 VMs: Build your own vulnerable Windows VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
   ### Security Tools
   - [Sectools.org: List of the top 125 network security tools](http://sectools.org/)
