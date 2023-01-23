@@ -139,7 +139,7 @@ Understanding the operating systems and internal tools better helps an analyst m
 - [Linux Foundation - audit for free](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 - [Introduction to Red Hat Linux - audit for free](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 - [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
-- [Linux Hardening Guide part 1](https://linuxacademy.com/howtoguides/posts/show/topic/19700-linux-security-and-server-hardening-part1)
+- [Linux Server Hardening in 15 Steps](https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist)
 - [Introduction to OpenStack - audit for free](https://www.edx.org/course/introduction-to-openstack)
 
 ## Mac
