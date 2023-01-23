@@ -167,7 +167,6 @@ Defense in depth is the implementation of layered devices (IDS, firewalls, AV, p
 - [Security Defense in Depth](https://www.sans.org/reading-room/whitepapers/basics/defense-in-depth-525)
 - [IDS/IPS - Defense in Depth](https://www.sans.org/reading-room/whitepapers/detection/understanding-ips-ids-ips-ids-defense-in-depth-1381)
 - [Firewalls](https://www.youtube.com/watch?v=JtKq39I7z6k)
-- [Next Gen and Traditional AV Comparison](https://www.sans.org/reading-room/whitepapers/analyst/old-new-replacing-traditional-antivirus-37377)
 
 ## Regex and Programming
 Many security and IT tools do not fully cover our needs as analysts and responders. Some of the key skills are being able to match, locate, and manage text through large amounts of data with REGEX or creating scripts/automations.
