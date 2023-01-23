@@ -160,11 +160,7 @@ An understanding of how to leverage the Windows OS's internal tools helps an ana
 
 ## Active Directory
 For Windows systems, knowing how active directory works is necessary for effective analysis and response.
-- [Understanding Active Directory: 01 Introduction to Active Directory](https://www.youtube.com/watch?v=RPzcxdiyVCM)
-- [Understanding Active Directory: 02 Active Directory Certificate Services (CS)](https://www.youtube.com/watch?v=x2vxxjwOcyw)
-- [Understanding Active Directory: 03 Active Directory Federation Services (FS)](https://www.youtube.com/watch?v=R8grO04dTB8)
-- [Understanding Active Directory: 04 Active Directory Rights Management Services (RMS)](https://www.youtube.com/watch?v=TBZT0PJwKDM)
-- [Understanding Active Directory: 05 Active Directory Lightweight Directory Services (LDS)](https://www.youtube.com/watch?v=Yg2Nvr6r8to)
+- [Understanding Active Directory and Group Policy](https://www.youtube.com/watch?v=Q4I2lKHboDw)
 
 ## Security Infrastructure
 Defense in depth is the implementation of layered devices (IDS, firewalls, AV, policy, DRP) and procedures working in unison to mitigate risk of malicious activity from both external and internal sources. Knowledge of the strengths and weaknesses of devices at each layer is key for understanding the overall security posture.
