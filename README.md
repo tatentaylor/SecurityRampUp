@@ -1,6 +1,8 @@
 # Security Ramp Up
 Curated list of content to learn and practice some of the skills and knowledge required for Information Security
 
+Disclaimer: You should follow all rules of the creator of the tools or solutions you use. Some of the tools or content have offensive capability or contain malware or vulnerabilities which should only be used in a controlled lab environment. Use at your own risk. This document is subject to change at any time and is not an all-inclusive list of resources that can be leveraged to learn about Information Security.
+
 ## Table of Contents
 - [InfoSec News, Blogs, etc](#infosec-news-blogs-etc)
 - [Recommended Twitter Accounts to Follow](#recommended-twitter-accounts-to-follow)
