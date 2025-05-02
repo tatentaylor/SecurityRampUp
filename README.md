@@ -1,11 +1,11 @@
 # Security Ramp Up
-Curated list of content to learn and practice some of the skills and knowledge required for Information Security
+Curated list of content to learn and practice skills and knowledge required for Information Security
 
 Disclaimer: You should follow all rules of the creator of the tools or solutions you use. Some of the tools or content have offensive capability or contain malware or vulnerabilities which should only be used in a controlled lab environment. Use at your own risk. This document is subject to change at any time and is not an all-inclusive list of resources that can be leveraged to learn about Information Security.
 
 ## Table of Contents
 - [InfoSec News, Blogs, etc](#infosec-news-blogs-etc)
-- [Recommended Twitter Accounts to Follow](#recommended-twitter-accounts-to-follow)
+- [Recommended Social Media Accounts to Follow](#recommended-social-media-accounts-to-follow)
 - [Recommended Podcasts](#recommended-podcasts)
 - [Recommended Books](#recommended-books)
 - [Recommended Certifications](#recommended-certifications)
@@ -19,12 +19,13 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Windows](#windows)
 - [Active Directory](#active-directory)
 - [Security Infrastructure](#security-infrastructure)
+- [Container](#container)
 - [Regex and Programming](#regex-and-programming)
 - [Malware](#malware)
 - [Set Up your Home Lab](#set-up-your-home-lab)
 - [Hands on](#hands-on)
+- [Risk](#risk)
 - [Additional Resources](#additional-resources)
-
   
 ## InfoSec News, Blogs, etc
 - [Krebs on Security](https://krebsonsecurity.com/)
@@ -39,9 +40,10 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [ThreatPost](https://threatpost.com/)
 - [Ars Technica Security](https://arstechnica.com/tag/security/)
 
-## Recommended Twitter Accounts to Follow
+## Recommended Social Media Accounts to Follow
 - [@briankrebs](https://twitter.com/briankrebs)
-- [@troyhunt](https://twitter.com/troyhunt)
+- [hasherezade](https://bsky.app/profile/hasherezade.bsky.social)
+- [@troyhunt.com](https://bsky.app/profile/troyhunt.com)
 - [@taviso](https://twitter.com/taviso)
 - [@jepayneMSFT](https://twitter.com/jepayneMSFT)
 - [@matthewdunwoody](https://twitter.com/matthewdunwoody)
@@ -49,7 +51,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [@HackingDave](https://twitter.com/HackingDave)
 - [@subTee](https://twitter.com/subTee) 
 - [@gentilkiwi](https://twitter.com/gentilkiwi)
-
+- [@cybersecuritygirl](https://www.tiktok.com/@cybersecuritygirl)
 
 ## Recommended Podcasts
 - [Internet Storm Center Daily Information Security Podcast](https://isc.sans.edu/podcast.html)
@@ -72,18 +74,22 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Red Team Field Manual](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?keywords=Blue+Team+handbook+soc+siem+and+threat+hunting+use+cases&qid=1574749401&sr=8-1)
 - [The Web Application Hacker's Handbook 2nd edition: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?keywords=The+web+application+hackers+handbook+2nd+edition+finding+and+exploiting&qid=1574749540&sr=8-1)
 - [Malware Analyst’s Cookbook](https://www.walmart.com/ip/Malware-Analyst-s-Cookbook-and-DVD-Tools-and-Techniques-for-Fighting-Malicious-Code-9780470613030/13919663)
-- [The Art of Memory Forensics](https://www.walmart.com/ip/The-Art-of-Memory-Forensics-Detecting-Malware-and-Threats-in-Windows-Linux-and-Mac-Memory-9781118825099/33938941) 
+- [The Art of Memory Forensics](https://www.walmart.com/ip/The-Art-of-Memory-Forensics-Detecting-Malware-and-Threats-in-Windows--and-Mac-Memory-9781118825099/33938941) 
 - [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.walmart.com/ip/Practical-Malware-Analysis-The-Hands-On-Guide-to-Dissecting-Malicious-Software-9781593272906/15885930)
 - [Incident Response & Computer Forensics, Third Edition](https://www.walmart.com/ip/Incident-Response-Computer-Forensics-Paperback-9780071798686/22556605)
 
 ## Recommended Certifications
 - [CompTIA Security+](https://certification.comptia.org/certifications/security)
+- [Professor Messer CompTIA Security+ free training](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
 - [CompTIA CyberSecurity Analyst +](https://certification.comptia.org/certifications/cybersecurity-analyst)
+- [Professor Messer CompTIA Network+ free training](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
 - [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - [GIAC Continuous Monitoring Certification (GMON)](https://www.giac.org/certification/continuous-monitoring-certification-gmon)
 - [GIAC Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)
 - [GIAC Certified Intrusion Analyst (GCIA)](https://www.giac.org/certification/certified-intrusion-analyst-gcia)
 - [ISACA CSX](https://cybersecurity.isaca.org/csx-nexus)
+- [Selection of varied InfoSec and IT Tutorials](https://danielmiessler.com/study/)
+- [VMWare Introduction - VMWare Certified Associate](https://vmwarelearningzone.vmware.com/oltpublish/site/cms.do?view=openlearning)
 
 ## Basic Networking
 Knowledge of networking is a critical foundation for all InfoSec analysts and is used in several follow-on disciplines.
@@ -102,6 +108,8 @@ Knowledge of networking is a critical foundation for all InfoSec analysts and is
 - [Subnetting](https://docs.microsoft.com/en-us/previous-versions/tn-archive/bb962065(v=technet.10)?redirectedfrom=MSDN)
 - [Virtual Private Networks](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html)
 - [Cisco eLearning Network-CCENT up to CCIE](https://learningnetwork.cisco.com/community/learning_center/training-catalog/network-programmability)
+- [TCPDump Tutorial](https://danielmiessler.com/study/tcpdump/)
+- [What happens when you type google.com into your browser's address box and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 
 ## Cryptography
 Knowledge of algorithms, ciphers, and security systems is useful to understand how it may be used to protect sensitive data or to conceal malicious activities.
@@ -118,6 +126,7 @@ Knowing the tactics, techniques, and procedures used by malicious actors to prob
 - [Deep Inside a DNS DDoS Amplification Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
 - [List of Adversary Emulation Tools](http://pentestit.com/adversary-emulation-tools-list/)
 - [Verizon Data Breach Investigations Report (DBIR)](https://www.verizon.com/business/resources/reports/dbir/)
+- [DefCon](https://www.youtube.com/@DEFCONConference/playlists)
 
 ## Vulnerabilities
 Understanding security vulnerabilities and where to get more information on them is a necessary skill. Many well known breaches were due to exploitation of an unpatched vulnerability.
@@ -130,15 +139,18 @@ Network traffic analysis is the process of recording, reviewing, and analyzing n
 - [Sample Captures of various protocols and devices](https://wiki.wireshark.org/SampleCaptures)
 - [Wireshark and Wireshark Security Videos](https://mnex.biz/index.php/videos/)
 
-## Linux
+## 
 Understanding the operating systems and internal tools better helps an analyst more effectively protect, diagnose, and triage systems.
-- [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [ Command Line Basics](https://www.udacity.com/course/-command-line-basics--ud595)
 - [Linux Foundation - audit for free](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 - [Introduction to Red Hat Linux - audit for free](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 - [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
 - [Linux Server Hardening in 15 Steps](https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist)
 - [Introduction to OpenStack - audit for free](https://www.edx.org/course/introduction-to-openstack)
-
+- [VIM Tutorial](https://danielmiessler.com/study/vim/)
+- [Linux Academy](https://linuxacademy.com/)
+- [Linux Hardening Guide part 2](https://linuxacademy.com/howtoguides/posts/show/topic/19746-linux-security-and-server-hardening-part2)
+  
 ## Mac
  
 - [Objective See](https://www.objective-see.com/blog.html)
@@ -165,6 +177,9 @@ Defense in depth is the implementation of layered devices (IDS, firewalls, AV, p
 - [IDS/IPS - Defense in Depth](https://www.sans.org/reading-room/whitepapers/detection/understanding-ips-ids-ips-ids-defense-in-depth-1381)
 - [Firewalls](https://www.youtube.com/watch?v=JtKq39I7z6k)
 
+## Container
+- [Docker Explained in Depth](https://www.youtube.com/watch?v=pg19Z8LL06w&pp=ygUGZG9ja2Vy)
+
 ## Regex and Programming
 Many security and IT tools do not fully cover our needs as analysts and responders. Some of the key skills are being able to match, locate, and manage text through large amounts of data with REGEX or creating scripts/automations.
 - [REGEX tutorial: Create patterns that help ](http://www.regular-expressions.info/tutorial.html)
@@ -175,6 +190,8 @@ Many security and IT tools do not fully cover our needs as analysts and responde
 - [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) 
 - [Python for Security Professionals](https://www.cybrary.it/course/python/)
 - [W3 Schools - Learn HTML up to PHP and Perl](https://www.w3schools.com/default.asp)
+- [Learn Python the Hard Way 3](https://learnpythonthehardway.org/python3/)
+- [Learn REGEX in 55 minutes](https://qntm.org/files/re/re.html)
 
 ## Malware
 Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor. Understanding how malware works is a key analytical skill.
@@ -203,6 +220,7 @@ Setting up and utilizing a home lab allows a learner to put into practice the le
   ### Vulnerable applications and OS Images
   - [Metasploitable 3: Intentionally vulnerable linux image](https://github.com/rapid7/metasploitable3)
   - [OWASP Mutillidae 2: Vulnerable Web Aplication](https://owasp.org/www-project-mutillidae-ii/)
+  - [Pentester Lab](https://www.pentesterlab.com)
 
   ### Security Tools
   - [Sectools.org: List of the top 125 network security tools](http://sectools.org/)
@@ -218,32 +236,32 @@ Use the following scenarios and challenges to apply your knowledge. Some content
 - [Metasploit Unleashed Course](https://www.offensive-security.com/metasploit-unleashed/)
 - [Exploit and CTF Challenges](https://exploit-exercises.com/)
 - [VMs for hands-on security experience](https://www.vulnhub.com/)
+- [Arizona State Pwn.College](https://ctf.asu.edu/education/)
+- [Hack the Box](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
+- [PicoCTF](https://picoctf.org/)
+
+## OSINT
+  - [Open Source Intelligence Resources](https://start.me/p/m6XQ08/osint)
+
+## Risk
+- [NIST Framework](https://www.nist.gov/cyberframework)
+- [CVE - Vulnerability Reporting and Risk](https://www.cve.org/About/Overview)
+- [CIA Triad - Confidentiality, Integrity, Availability](https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html)
+- [Kill Chain by Lockheed Martin - Steps from Reconnaissance to Post Exploitation](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 ## Additional Resources
 List of free and paid resource ideas to continue learning.
 <details><summary>Expand</summary>
   
   - [Command Line Crash Course - Linux and Windows](https://learnpythonthehardway.org/python3/appendixa.html)
-  - [Linux Academy](https://linuxacademy.com/)
-  - [Linux Hardening Guide part 2](https://linuxacademy.com/howtoguides/posts/show/topic/19746-linux-security-and-server-hardening-part2)
   - [Guidelines for System Hardening](https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-hardening)
-  - [Pentester Lab](https://www.pentesterlab.com)
   - [Tufts Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
   - [List of InfoSec learning resources](https://github.com/onlurking/awesome-infosec)
   - [List of Hacking Resources](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
   - [List of Hacking Environments](https://github.com/joe-shenouda/awesome-cyber-skills)
-  - [Learn Python the Hard Way 3](https://learnpythonthehardway.org/python3/)
-  - [Learn REGEX in 55 minutes](https://qntm.org/files/re/re.html)
-  - [Professor Messer CompTIA Network+ free training](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
-  - [Professor Messer CompTIA Security+ free training](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
-  - [What happens when you type google.com into your browser's address box and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
-  - [VIM Tutorial](https://danielmiessler.com/study/vim/)
-  - [TCPDump Tutorial](https://danielmiessler.com/study/tcpdump/)
-  - [Selection of varied InfoSec and IT Tutorials](https://danielmiessler.com/study/)
-  - [Open Source Intelligence Resources](https://start.me/p/m6XQ08/osint)
-  - [VMWare Introduction - VMWare Certified Associate](https://vmwarelearningzone.vmware.com/oltpublish/site/cms.do?view=openlearning)
   - [Open Courseware - Coursera](https://www.coursera.org/browse?languages=en)
   - [Open Courseware - CCCOER](https://www.cccoer.org/learn/find-oer/open-courseware/)
   - [Open Textbook - M.I.T.](https://ocw.mit.edu/courses/online-textbooks/)
-  - [US CyberPatriot - Resources](https://www.uscyberpatriot.org/competition/training-materials/additional-resources)
+  - [IronGeek - Recorded Cybersecurity Conferences](https://www.youtube.com/@irongeek/playlists)
  </details>
